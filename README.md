@@ -20,3 +20,5 @@ Language: Python
 Libraries: Pandas, NumPy, Scikit-Learn
 
 Visualization: Matplotlib, Seaborn
+
+Developed as part of a Machine Learning module during my college studies.
